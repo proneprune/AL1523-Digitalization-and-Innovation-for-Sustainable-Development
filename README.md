@@ -1,2 +1,3 @@
 # AL1523-Digitalization-and-Innovation-for-Sustainable-Development
+In this course in digitalization and innovation for sustainable development a group project is created in collaboration with a company. I created together with my group, a design for a mobile application of the consumption compass from SEI. The entire design is created in figma and there is no functionality coded except for what is possible in figma. The following link takes you to the design, use flow 2: 
 https://www.figma.com/proto/FwvotCHRpAxIMVtPsn0szn/Mobile-App-Design?node-id=11-49&starting-point-node-id=11%3A49&show-proto-sidebar=1&mode=design&t=6Fxub9gcPXvIAt41-1
